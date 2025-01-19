@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<Stdlib.h>
+#include<stdlib.h>
 
 int readmatrix(int **a,int n);
 int compute(int **a,int **b,int **c,int n);
